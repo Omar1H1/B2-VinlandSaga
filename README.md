@@ -1,2 +1,2 @@
-# VinlandSand
+# VinlandSaga
 Brief02
